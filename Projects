@@ -1,0 +1,56 @@
+
+	margin-left: 2.5%;
+	font-size: 15px;	
+}
+</style>
+
+<title>Joy Janney</title>
+</head>
+<body>
+
+<p class = "title">
+	Joy Janney
+</p>
+<p>
+
+<div class = "textBox">
+	<br>
+		<h2 class = "h2">Projects</h2>
+			<div class = textbox>
+				<br>Projects are my way of figuring a puzzle out.
+				Every project is slightly different and requires different solutions.
+				Through every project I find that I learn about things I never even knew.
+			</br>
+			</div>
+		
+		<h4 class = "h4">JavaMaker</h4>
+			<div class = textbox>
+				<br>
+				I completed this project with two of my amazing friends, Ben and Sarah.
+				We set a goal for a weekly sprint and ended up completing an avatar designer together.
+				</br>
+			</div>
+		
+		<h4 class = "h4">Password Manager</h4>
+			<div class = textbox>
+				<br>I am still working through some of the errors that come up.
+				I was inspired to create this project for my parents so that they could share passwords easily and securely.
+			</br>
+			</div>
+		
+		<h4 class = "h4">AES Encryption</h4>
+			<div class = textbox>
+				<br>This is by far my favorite projects as it is what inspired me to go into programming.
+				After researching the SIGABA encryption machine (the superior American comtemporary to the Enigma machine)
+				I wanted to learn more about encryption. This project is still my most challenging as I had to go as far
+				down as to changing the individual bits. Although the code could be improved upon
+				(I completed it my Junior year of high school), I am still extremely proud of it and intend on improving it over time.
+			</br>
+			</div>
+		
+	</br>
+</div>
+</p>
+</body>
+
+</html>
